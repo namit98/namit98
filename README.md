@@ -22,8 +22,7 @@
 
 
 
-- 📫 How to reach me: ```Email: dubeynamit7@gmail.com
-
-                          Linkedin: https://www.linkedin.com/in/namit-dubey-b6b643151/
-                       ```
+- 📫 How to reach me:``` Email: dubeynamit7@gmail.com```
+```Linkedin: https://www.linkedin.com/in/namit-dubey-b6b643151/```
+                      
 
