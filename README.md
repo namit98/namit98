@@ -1,16 +1,29 @@
 ### Hi there 👋
+ 
+ I am a Data Science and Machine Learning Enthusiast and love to make exciting projects based on these domains. 
 
-<!--
-**namit98/namit98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 🔭 I am currently focused to enhance my Skills related to Data science and Programming .
+- 🌱 I am having knowledge of : 
+               ``` 
+                Languages- C,C++,Python,Java 
+                ```
+                ```
+                Frameworks- Pytorch,Keras,Scikit-learn,Flask
+                ```
+                ```
+                DBMS- MySQL,SQLAlchemy
+                ```
+        
+
+
+
+
+- 📫 How to reach me: ```Email: dubeynamit7@gmail.com
+
+                          Linkedin: https://www.linkedin.com/in/namit-dubey-b6b643151/
+                       ```
+
