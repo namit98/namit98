@@ -1,21 +1,21 @@
 ### Hi there 👋
  
- I am a Data Science and Machine Learning Enthusiast and love to make exciting projects based on these domains. 
+ I am a Software Developer and Full Stack Web Development Enthusiast, having knowledge of MERN stack and love to make exciting projects based on these domains. 
 
 
 
 
 
- 🔭 I am currently focused to enhance my Skills related to Data science and Programming .
+ 🔭 I am currently focused to enhance my Skills related to Web Dev, Data science and Programming .
 - 🌱 I am having knowledge of : 
                ``` 
-                Languages- C,C++,Python,Java 
+                Languages- JavaScript,Python
                 ```
                 ```
-                Frameworks- Pytorch,Keras,Scikit-learn,Flask
+                Frameworks- Nodejs,Reactjs,Djangp,Flask,Keras
                 ```
                 ```
-                DBMS- MySQL,SQLAlchemy
+                DBMS- MongoDB,MySQL,SQLAlchemy
                 ```
         
 
